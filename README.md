@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ============================================================
 # MARKET ANALYSIS AGENT — README
 # AI-powered forex & commodity market analysis webapp
@@ -103,3 +104,7 @@ python -m unittest discover -s tests
 Trading forex and commodities carries a high level of risk. This software is for
 educational purposes only and does not provide financial advice. Only trade with
 capital you can afford to lose.
+=======
+# Analyst
+markets and agents
+>>>>>>> aeb95167eaa8b397801bb3e760a7f5792b642c70
