@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # ============================================================
-# MARKET ANALYSIS AGENT — README
-# AI-powered forex & commodity market analysis webapp
-# React frontend + FastAPI backend + DeepSeek AI engine
+# MARKET ANALYSIS AGENT 
+# AI-powered forex & commodity market analysis
 # ============================================================
 
 ## Overview
